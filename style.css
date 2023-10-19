@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(177, 138, 21);
-    color: rgb(48, 150, 14);
+    background-color: rgba(2, 122, 143, 0.836);
+    color: rgb(0, 0, 0);
 }
 
 .banner {
-    color: rgba(79, 114, 55, 0);
+    color: rgb(231, 209, 5);
     font-size: 50px;
 }
 
 #footer-text {
-    color: rgba(223, 16, 16, 0.884);
+    color: rgba(187, 11, 11, 0.884);
 }
